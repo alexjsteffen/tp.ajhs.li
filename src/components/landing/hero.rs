@@ -14,7 +14,7 @@ pub fn hero() -> Html {
                         </p>
                         <div class="cta-group">
                             <a href="#contact" class="btn-primary">{ "Book a Consultation" }</a>
-                            <a href="#experience" class="btn-secondary">{ "Learn More" }</a>
+                            <a href="#expertise" class="btn-secondary">{ "Learn More" }</a>
                         </div>
                     </div>
                     <div class="hero-decorative" aria-hidden="true">

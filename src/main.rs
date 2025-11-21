@@ -12,13 +12,17 @@ use parser::Parser;
 use yew::prelude::*;
 use yew_router::prelude::*;
 
-use pages::{page_not_found::PageNotFound, post::Post, landing::LandingPage};
+use pages::{page_not_found::PageNotFound, post::Post, landing::LandingPage, markdown_page::MarkdownPage};
 use yew::html::Scope;
 
 #[derive(Routable, PartialEq, Clone, Debug)]
 pub enum Route {
     #[at("/posts/:id/:title")]
     Post { id: u64, title: String },
+    #[at("/privacy")]
+    Privacy,
+    #[at("/terms")]
+    Terms,
     #[at("/")]
     Home,
     #[not_found]
@@ -188,6 +192,22 @@ fn switch(routes: &Route) -> Html {
     match routes.clone() {
         Route::Post { id, title } => {
             html! { <Post id={id} title={title} /> }
+        }
+        Route::Privacy => {
+            html! { 
+                <MarkdownPage 
+                    filename="2022-08-01-Privacy-Notice" 
+                    default_title="Privacy Policy" 
+                /> 
+            }
+        }
+        Route::Terms => {
+            html! { 
+                <MarkdownPage 
+                    filename="2022-07-15-TOS" 
+                    default_title="Terms and Conditions" 
+                /> 
+            }
         }
         Route::Home => {
             html! { <LandingPage /> }
