@@ -57,13 +57,11 @@ impl Component for Model {
     type Properties = ();
 
     fn create(_ctx: &Context<Self>) -> Self {
-        use std::sync::Once;
-        static mut INIT: Once = Once::new();
-        unsafe {
-            INIT.call_once(|| {
-                _ctx.link().send_message(Msg::LoadBlogMeta);
-            });
-        }
+        use std::sync::OnceLock;
+        static INIT: OnceLock<()> = OnceLock::new();
+        INIT.get_or_init(|| {
+            _ctx.link().send_message(Msg::LoadBlogMeta);
+        });
         Self {
             state: FetchState::NotFetching,
         }
@@ -92,7 +90,7 @@ impl Component for Model {
         }
     }
 
-    fn view(&self, ctx: &Context<Self>) -> Html {
+    fn view(&self, _ctx: &Context<Self>) -> Html {
         match self.state {
             FetchState::Success(_) => {
                 html! {
@@ -108,6 +106,7 @@ impl Component for Model {
     }
 }
 impl Model {
+    #[allow(dead_code)]
     fn view_user_info(&self) -> Html {
         let s = constant::USER_INFO;
         let mut infos = Vec::new();
@@ -144,9 +143,10 @@ impl Model {
         }
     }
 
+    #[allow(dead_code)]
     fn view_nav(&self, _link: &Scope<Self>) -> Html {
         let href = format!("/{}/", constant::SUBPATH.replace("/", ""));
-        let logo = format!(
+        let _logo = format!(
             "/{}/{}",
             constant::SUBPATH.replace("/", "/"),
             constant::LOGO_PIC

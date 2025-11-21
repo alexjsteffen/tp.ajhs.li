@@ -5,16 +5,16 @@ pub fn experience() -> Html {
     html! {
         <section id="expertise" class="section">
             <div class="container">
-                <h2 class="h2">{ "Experience Meets Innovation in Legal Services" }</h2>
+                <h2 class="h2">{ "A Strategic Partner, Not Just a Lawyer" }</h2>
                 <div class="grid-2">
                     <div>
                         <p class="body">
-                            { "With a deep understanding of both traditional legal frameworks and emerging technologies, I provide comprehensive legal support tailored to the unique needs of innovative businesses. My approach combines rigorous legal analysis with practical business insights, ensuring that your company not only complies with regulations but thrives in competitive markets." }
+                            { "Startups move fast, and traditional legal models often can't keep up. My practice is built for speed and precision. With over five years of experience guiding emerging companies, I understand that legal advice needs to facilitate business goals, not block them. I combine rigorous legal analysis with practical financial strategy to help you take calculated risks." }
                         </p>
                     </div>
                     <div>
                         <p class="body">
-                            { "From seed funding to Series A and beyond, I've guided startups through every stage of growth. My experience spans entity formation, intellectual property protection, contract negotiation, and strategic corporate governance, all designed to position your business for long-term success." }
+                            { "When you work with me, you work directly with me—not a junior associate. I have successfully guided founders through critical seed funding, complex IP negotiations, and international expansion. My goal is to ensure your corporate framework is robust enough to secure investment today and scalable enough to support your exit tomorrow." }
                         </p>
                     </div>
                 </div>

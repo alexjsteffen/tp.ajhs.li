@@ -8,16 +8,19 @@ use crate::Route;
 use yew::prelude::*;
 use yew_router::prelude::*;
 
+#[allow(dead_code)]
 pub enum Msg {
     PageUpdated,
     LoadPageUpdate,
 }
 
+#[allow(dead_code)]
 pub struct PostList {
     page: u64,
     _listener: LocationHandle,
 }
 
+#[allow(dead_code)]
 fn current_page(ctx: &Context<PostList>) -> u64 {
     let location = ctx.link().location().unwrap();
 
@@ -64,7 +67,7 @@ impl Component for PostList {
             parser.dispatch(ParseAct::MoreBlogMeta);
             link.send_message(Msg::LoadPageUpdate);
         });
-        let view = if &parse.display == "gridCard" {
+        let _view = if &parse.display == "gridCard" {
             "List View"
         } else {
             ""
@@ -95,6 +98,7 @@ impl Component for PostList {
         }
     }
 }
+#[allow(dead_code)]
 impl PostList {
     fn view_posts(&self, _ctx: &Context<Self>) -> Html {
         let (parse, _) = _ctx

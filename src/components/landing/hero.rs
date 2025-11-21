@@ -7,14 +7,14 @@ pub fn hero() -> Html {
             <div class="container">
                 <div class="grid-2">
                     <div class="hero-content">
-                        <span class="eyebrow">{ "Your Trusted Legal Partner in Innovation" }</span>
-                        <h1 class="h1">{ "Building Success Through Strategic Legal Guidance" }</h1>
+                        <span class="eyebrow">{ "Legal Strategy for High-Growth Startups" }</span>
+                        <h1 class="h1">{ "Scale Your Business with Confidence." }</h1>
                         <p class="lead">
-                            { "At ajhs legal innovation, I specialize at the intersection of law, technology, and finance, delivering impactful legal solutions that propel startups forward. With over five years of dedicated experience working alongside emerging companies, I bring a unique blend of expertise in financial strategy, corporate structuring, and offshore account management. I have successfully assisted entrepreneurs secure critical funding, optimize their corporate frameworks, and navigate complex financial landscapes. My innovative, tailored legal services empower innovators to overcome challenges and seize opportunities in today's fast-paced business environment." }
+                            { "I bridge the gap between law, technology, and finance to help founders navigate the complex path from formation to exit. As a specialist in startup growth and corporate structuring, I provide more than just legal answers—I deliver strategic solutions. Get the agility of a dedicated partner with the expertise of a senior counsel, all without the big-firm overhead." }
                         </p>
                         <div class="cta-group">
-                            <a href="#contact" class="btn-primary">{ "Book a Consultation" }</a>
-                            <a href="#expertise" class="btn-secondary">{ "Learn More" }</a>
+                            <a href="#contact" class="btn-primary">{ "Schedule a Free Consultation" }</a>
+                            <a href="#expertise" class="btn-secondary">{ "View Practice Areas" }</a>
                         </div>
                     </div>
                     <div class="hero-decorative" aria-hidden="true">

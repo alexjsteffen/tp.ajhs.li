@@ -1,9 +1,6 @@
-use crate::parser::ParseAct;
-use crate::ParseActContext;
 use crate::{parser::str2blog, Blog};
 use crate::pages::post::{read_file, FetchError, FetchState};
 use yew::{html, prelude::*, Component, Context, Html};
-use wasm_bindgen::JsCast;
 
 #[derive(Clone, Debug, Eq, PartialEq, Properties)]
 pub struct Props {

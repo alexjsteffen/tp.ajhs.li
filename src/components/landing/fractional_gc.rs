@@ -5,23 +5,23 @@ pub fn fractional_gc() -> Html {
     html! {
         <section id="about" class="section">
             <div class="container">
-                <h2 class="h2">{ "Fractional General Counsel" }</h2>
+                <h2 class="h2">{ "Your In-House Counsel, On Demand" }</h2>
                 <div class="grid-2">
                     <div>
                         <p class="body">
-                            { "As your on-demand legal advisor, Alexander seamlessly integrates with your team to provide high-level expertise tailored to your objectives. He delivers strategic legal advice, risk assessments, and ongoing guidance, empowering your organization to navigate complex legal landscapes and make informed decisions that drive success." }
+                            { "Hiring a full-time General Counsel is expensive, but going without one is risky. My Fractional GC service bridges that gap. I integrate seamlessly with your team to provide day-to-day guidance, contract review, and risk management. It's the proactive legal support of a dedicated executive, tailored to your budget and growth stage." }
                         </p>
                     </div>
                     <div>
-                        <p class="body"><strong>{ "Key Benefits:" }</strong></p>
+                        <p class="body"><strong>{ "Why Fractional GC?" }</strong></p>
                         <ul class="benefits-list">
-                            <li>{ "Strategic legal advice" }</li>
-                            <li>{ "Proactive risk assessment" }</li>
-                            <li>{ "Embedded, ongoing guidance" }</li>
+                            <li>{ "Predictable costs, no hourly billing surprises" }</li>
+                            <li>{ "Business-context aware advice" }</li>
+                            <li>{ "Faster turnaround on day-to-day contracts" }</li>
                         </ul>
                         <p class="body mt-16">
                             <a href="#contact" class="cta-link">
-                                { "See how fractional GC works" }
+                                { "Explore Fractional GC Plans" }
                             </a>
                         </p>
                     </div>
