@@ -24,11 +24,6 @@ impl Component for MarkdownPage {
     type Properties = Props;
 
     fn create(ctx: &Context<Self>) -> Self {
-        let (parser, _) = ctx
-            .link()
-            .context::<ParseActContext>(Callback::noop())
-            .expect("Parser Context not found");
-        
         let filename = ctx.props().filename.clone();
         let default_title = ctx.props().default_title.clone();
         
@@ -138,7 +133,7 @@ impl MarkdownPage {
             let parser = pulldown_cmark::Parser::new_ext(&part, options);
             let mut output = String::with_capacity(part.len() * 3 / 2);
             pulldown_cmark::html::push_html(&mut output, parser);
-            let output_div = format!("<div> {} </div>", output);
+            let output_div = format!("<div>{}</div>", output);
             
             let parse_result = dom_parser
                 .parse_from_string(&output_div, web_sys::SupportedType::TextHtml)

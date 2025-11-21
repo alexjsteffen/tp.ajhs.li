@@ -18,6 +18,7 @@
 
   --container-max: 1200px;
   --gutter: 24px;
+  --section-padding: 60px;
 
   --shadow-card: 0 8px 24px -8px rgb(0 0 0 / 0.10);
 }
@@ -554,7 +555,7 @@ footer.site {
   }
   
   .markdown-page {
-    padding-top: 60px;
-    padding-bottom: 60px;
+    padding-top: var(--section-padding);
+    padding-bottom: var(--section-padding);
   }
 }

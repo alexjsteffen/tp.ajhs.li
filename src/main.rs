@@ -196,7 +196,7 @@ fn switch(routes: &Route) -> Html {
         Route::Privacy => {
             html! { 
                 <MarkdownPage 
-                    filename="2022-08-01-Privacy-Notice" 
+                    filename="privacy" 
                     default_title="Privacy Policy" 
                 /> 
             }
@@ -204,7 +204,7 @@ fn switch(routes: &Route) -> Html {
         Route::Terms => {
             html! { 
                 <MarkdownPage 
-                    filename="2022-07-15-TOS" 
+                    filename="terms" 
                     default_title="Terms and Conditions" 
                 /> 
             }
