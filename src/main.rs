@@ -12,7 +12,7 @@ use parser::Parser;
 use yew::prelude::*;
 use yew_router::prelude::*;
 
-use pages::{page_not_found::PageNotFound, post::Post, post_list::PostList, landing::LandingPage};
+use pages::{page_not_found::PageNotFound, post::Post, landing::LandingPage};
 use yew::html::Scope;
 
 #[derive(Routable, PartialEq, Clone, Debug)]
