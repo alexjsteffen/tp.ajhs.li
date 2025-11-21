@@ -4,6 +4,7 @@ use crate::Route;
 use yew::prelude::*;
 use yew_router::components::Link;
 
+#[allow(dead_code)]
 #[derive(Clone, Debug, PartialEq, Properties)]
 pub struct Props {
     pub id: u64,
@@ -11,6 +12,7 @@ pub struct Props {
     pub display: String,
 }
 
+#[allow(dead_code)]
 pub struct BlogCard {
     meta: BlogMeta,
 }

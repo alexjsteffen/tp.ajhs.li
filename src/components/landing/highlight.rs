@@ -6,7 +6,7 @@ pub fn highlight() -> Html {
         <section class="section">
             <div class="container">
                 <div class="highlight-band">
-                    { "I offer tailored legal solutions that empower startups and businesses to navigate complex legal landscapes with confidence." }
+                    { "Big law expertise. Startup agility. Transparent pricing. I handle the legal complexities so you can focus on building the future." }
                 </div>
             </div>
         </section>

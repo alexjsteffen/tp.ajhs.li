@@ -8,20 +8,21 @@ pub fn services() -> Html {
                 <h2 class="visually-hidden">{ "Our Services" }</h2>
                 <div class="services-grid">
                     <div class="card">
-                        <h3 class="h3">{ "Startup Business Assistance" }</h3>
+                        <h3 class="h3">{ "Launch & Structure" }</h3>
                         <ul>
-                            <li>{ "Entity Formation" }</li>
-                            <li>{ "Intellectual Property Protection" }</li>
-                            <li>{ "Funding Strategies" }</li>
-                            <li>{ "Regulatory Compliance" }</li>
+                            <li>{ "Entity Selection & Formation" }</li>
+                            <li>{ "Cross-Border Corporate Structuring" }</li>
+                            <li>{ "Co-Founder Agreements" }</li>
+                            <li>{ "Intellectual Property Strategy" }</li>
                         </ul>
                     </div>
                     <div class="card">
-                        <h3 class="h3">{ "Corporate Matters" }</h3>
+                        <h3 class="h3">{ "Growth & Finance" }</h3>
                         <ul>
-                            <li>{ "Contract Negotiation" }</li>
-                            <li>{ "Mergers & Acquisitions" }</li>
-                            <li>{ "Corporate Governance" }</li>
+                            <li>{ "Venture Capital & Fundraising" }</li>
+                            <li>{ "Mergers & Acquisitions (M&A)" }</li>
+                            <li>{ "Commercial Contracts & Licensing" }</li>
+                            <li>{ "Regulatory & Financial Compliance" }</li>
                         </ul>
                     </div>
                 </div>

@@ -13,13 +13,16 @@ use yew_router::prelude::*;
 
 use crate::Route;
 
+#[allow(dead_code)]
 const ELLIPSIS: &str = "\u{02026}";
 
+#[allow(dead_code)]
 #[derive(Serialize, Deserialize, PartialEq, Clone, Debug)]
 pub struct PageQuery {
     pub page: u64,
 }
 
+#[allow(dead_code)]
 #[derive(Clone, Debug, PartialEq, Properties)]
 pub struct Props {
     pub page: u64,
@@ -27,6 +30,7 @@ pub struct Props {
     pub route_to_page: Route,
 }
 
+#[allow(dead_code)]
 pub struct Pagination;
 
 impl Component for Pagination {
@@ -60,6 +64,7 @@ impl Component for Pagination {
         }
     }
 }
+#[allow(dead_code)]
 impl Pagination {
     fn render_link(&self, to_page: u64, props: &Props) -> Html {
         let Props {
@@ -118,7 +123,7 @@ impl Pagination {
         let links_left = LINKS_PER_SIDE.min(pages_prev)
             // if there are less than `LINKS_PER_SIDE` to the right, we add some more on the left.
             + LINKS_PER_SIDE.checked_sub(pages_next).unwrap_or_default();
-        let links_right = 2 * LINKS_PER_SIDE - links_left;
+        let _links_right = 2 * LINKS_PER_SIDE - links_left;
 
         html! {
  
@@ -127,9 +132,9 @@ impl Pagination {
 
     fn view_relnav_buttons(&self, props: &Props) -> Html {
         let Props {
-            page,
-            total_pages,
-            route_to_page: to,
+            page: _,
+            total_pages: _,
+            route_to_page: _to,
         } = props.clone();
 
         html! {
