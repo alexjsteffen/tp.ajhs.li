@@ -2,6 +2,7 @@
 
 :root {
   --color-navy: #0F2A46;
+  --color-navy-dark: #133B66;
   --color-charcoal: #0B1220;
   --color-slate: #334155;
   --color-mist: #E2E8F0;
@@ -137,9 +138,9 @@ body {
 }
 
 .btn-secondary:hover {
-  background: #133B66;
+  background: var(--color-navy-dark);
   color: var(--color-white);
-  border-color: #133B66;
+  border-color: var(--color-navy-dark);
 }
 
 .cta-group {
@@ -408,6 +409,28 @@ footer.site {
   clip: rect(0, 0, 0, 0);
   white-space: nowrap;
   border-width: 0;
+}
+
+.benefits-list {
+  padding-left: 20px;
+  margin: 0;
+}
+
+.benefits-list li {
+  margin-bottom: 8px;
+}
+
+.cta-link {
+  color: var(--color-navy);
+  text-decoration: underline;
+}
+
+.cta-link:hover {
+  color: var(--color-navy-dark);
+}
+
+.mt-16 {
+  margin-top: 16px;
 }
 
 /* Responsive tap targets */

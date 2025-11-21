@@ -14,13 +14,13 @@ pub fn fractional_gc() -> Html {
                     </div>
                     <div>
                         <p class="body"><strong>{ "Key Benefits:" }</strong></p>
-                        <ul style="padding-left: 20px;">
-                            <li style="margin-bottom: 8px;">{ "Strategic legal advice" }</li>
-                            <li style="margin-bottom: 8px;">{ "Proactive risk assessment" }</li>
-                            <li style="margin-bottom: 8px;">{ "Embedded, ongoing guidance" }</li>
+                        <ul class="benefits-list">
+                            <li>{ "Strategic legal advice" }</li>
+                            <li>{ "Proactive risk assessment" }</li>
+                            <li>{ "Embedded, ongoing guidance" }</li>
                         </ul>
-                        <p class="body" style="margin-top: 16px;">
-                            <a href="#contact" style="color: var(--color-navy); text-decoration: underline;">
+                        <p class="body mt-16">
+                            <a href="#contact" class="cta-link">
                                 { "See how fractional GC works" }
                             </a>
                         </p>
