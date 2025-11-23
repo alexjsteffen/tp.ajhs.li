@@ -1,0 +1,155 @@
+---
+title: Terms and Conditions
+published: true
+tag: 
+ - Terms and Conditions
+ - Legal
+ - Obligations
+---
+
+# Terms & Conditions
+**ajhs legal innovation**
+
+## Private Fileserver Terms & Conditions
+
+**Last Updated:** 23 October 2025.
+
+### Address
+
+ajhs legal innovation is located at:
+
+410 Adelaide Street West  
+Suite 220  
+Toronto, Ontario M5V 1S8  
+Canada
+
+### Overview
+
+These Terms & Conditions (the "Terms") govern access to and use of the private fileserver, portals, related applications, and any associated features, content, or tools provided by ajhs legal innovation ("ajhs," "we," "us," "our") (collectively, the "Services"). By accessing or using the Services, creating an account, or clicking "accept," you agree to be bound by these Terms. If you do not agree, you must not access or use the Services. Access to the Services is by invitation only and may be limited or revoked at any time in accordance with these Terms. These Terms apply to a private file sharing and collaboration environment used in connection with legal matters and operations. Use of the Services does not, by itself, create a lawyer–client relationship.
+
+### Definitions
+
+"Account" means a user profile provisioned for access to the Services. "Administrator" means an ajhs or client-designated person with elevated permissions, including user provisioning and workspace configuration. "Content" means information, documents, files, text, images, audio, video, metadata, and other material made available through the Services. "User Content" means Content that you upload, submit, store, or otherwise process via the Services. "You" and "User" mean the individual or legal entity accessing or using the Services.
+
+### Eligibility and Access
+
+You must be at least 18 years of age and have legal authority to agree to these Terms. Access is restricted to individuals specifically authorized by ajhs or by an Administrator on behalf of a client matter or project. You represent and warrant that your registration information is accurate and will be kept current.
+
+### Account Registration and Security
+
+You are responsible for maintaining the confidentiality of your credentials and for all activities under your Account. You must not share logins or reuse passwords from other services. You must promptly notify ajhs, through your ajhs contact or the administrative channel provided to you, of any suspected unauthorized access or security incident. ajhs may require multi-factor authentication, password resets, or other security controls, and may suspend an Account where compromise is suspected.
+
+### Permitted Use
+
+Subject to these Terms, ajhs grants you a limited, revocable, non-exclusive, non-transferable right to access and use the Services solely for secure storage, exchange, and collaboration on documents and materials related to authorized matters or projects, and solely in accordance with applicable law and any written instructions from ajhs or an Administrator.
+
+### Prohibited Activities
+
+You will not upload or transmit malware, malicious code, or Content that is illegal, infringing, defamatory, deceptive, harassing, or otherwise objectionable. You will not attempt to gain unauthorized access to the Services, Accounts, systems, or networks. You will not probe, scan, or test the vulnerability of the Services or circumvent security or access controls. You will not copy, modify, create derivative works of, reverse engineer, decompile, or disassemble any part of the Services, except to the extent such restriction is prohibited by law. You will not use automated means, including bots, crawlers, or scripts, to access the Services unless expressly permitted in writing. You will not resell, sublicense, rent, lease, or otherwise make the Services available to any third party except as expressly authorized by ajhs. You will not remove proprietary notices or use ajhs marks without prior written permission. You will not upload Content that you do not have the right to disclose or that violates confidentiality obligations, court orders, or third-party rights. You will not use the Services for high-risk activities where failure could lead to death, personal injury, or severe environmental or property damage. ajhs may investigate and take appropriate action, including suspension or termination of access, for violations of these Terms.
+
+### User Content and Ownership
+
+You retain all right, title, and interest in and to your User Content. You grant ajhs and its service providers a limited, worldwide, non-exclusive, royalty-free license to host, store, reproduce, and process User Content solely as necessary to provide, secure, maintain, back up, and support the Services and to comply with law. ajhs does not sell User Content and does not use User Content for advertising or marketing unrelated to the Services. You represent and warrant that you have all rights necessary to upload and process User Content and that your User Content and use of the Services comply with law and these Terms.
+
+### Confidentiality and Privilege
+
+ajhs treats User Content as confidential and restricts access to authorized personnel with a need to know for the purposes described in these Terms. Where applicable, User Content exchanged with ajhs in the course of a legal retainer will be handled consistent with professional obligations, including duties of confidentiality under the Law Society of Ontario's Rules of Professional Conduct. Electronic transmission and storage carry inherent risks, and while ajhs employs administrative, technical, and physical safeguards, no system is entirely risk-free. You are responsible for ensuring that your use of the Services aligns with your confidentiality obligations to third parties.
+
+### Privacy and Data Protection
+
+ajhs processes personal information in accordance with applicable Canadian privacy laws, including the Personal Information Protection and Electronic Documents Act (PIPEDA) and any substantially similar provincial laws, as applicable. The ajhs Privacy Notice applicable to the Services is made available via the fileserver login page or on request, and, to the extent of any conflict, the Privacy Notice controls over these Terms with respect to personal information handling. If you upload personal health information, youth or minor data, or other sensitive data, you are responsible for ensuring that you have lawful authority to do so and for providing any required notices or consents. ajhs will notify affected parties and, where required, regulators of a breach of security safeguards involving personal information as required by law and will cooperate reasonably with Users and clients in related investigations.
+
+### Security
+
+ajhs implements industry-standard safeguards designed to protect the confidentiality, integrity, and availability of the Services and User Content, including encryption in transit and at rest, access controls, and logging appropriate to the nature of the Services. Security is a shared responsibility, and you must implement reasonable measures on your systems and devices, including endpoint protection, patching, and secure configurations, and you must follow any security guidance provided by ajhs.
+
+### Data Location, Subprocessors, and Cross-Border Transfers
+
+ajhs may engage vetted third-party service providers, including subprocessors, to support the Services, such as for hosting, backup, and monitoring, and such providers are bound by confidentiality and data protection obligations consistent with these Terms. Data may be processed or stored outside of your province or country and may be subject to the laws of those jurisdictions, and ajhs will take reasonable steps to ensure an adequate level of protection for personal information where cross-border transfers occur. A current list or description of material subprocessors is available upon request.
+
+### Retention, Deletion, and Backups
+
+You and, where applicable, your Administrator control most data retention within workspaces or folders that you manage. Deleting Content typically removes it from active systems within a commercially reasonable period, although residual copies may persist in backups for a limited retention window. Following termination or completion of a matter or project, ajhs may deactivate access and, after a reasonable retrieval period, delete or archive User Content in accordance with ajhs retention policies and applicable law. Backups are maintained for disaster recovery and continuity, and ajhs does not guarantee the availability of any specific version of User Content and encourages Users to maintain their own copies where needed.
+
+### Availability, Maintenance, and Support
+
+ajhs strives to maintain secure and reliable Services but does not guarantee uninterrupted availability. Planned maintenance or updates may require temporary downtime, and urgent maintenance may occur without advance notice. Support requests should be directed through your ajhs contact or the administrative channel provided to you.
+
+### Third-Party Services and Links
+
+The Services may reference or integrate with third-party tools or contain links to third-party sites, which ajhs does not control and for which ajhs is not responsible. Your use of third-party services is governed by their terms and policies, and ajhs disclaims responsibility for third-party content, policies, and practices.
+
+### Intellectual Property (ajhs Materials)
+
+The Services, including software, interfaces, designs, and ajhs trademarks and logos, are owned by ajhs or its licensors and are protected by intellectual property laws. Except for the limited rights expressly granted in these Terms, no rights are granted to you, and all rights are reserved by ajhs and its licensors.
+
+### Feedback
+
+If you submit feedback, ideas, or suggestions, you grant ajhs a non-exclusive, perpetual, irrevocable, royalty-free license to use such feedback for any purpose without obligation to you.
+
+### Disclaimer of Warranties
+
+The Services are provided "as is" and "as available," and, to the maximum extent permitted by law, ajhs disclaims all warranties, express or implied, including warranties of merchantability, fitness for a particular purpose, non-infringement, and any warranties arising out of course of dealing or usage of trade. ajhs does not warrant that the Services will be uninterrupted, error-free, or secure, or that defects will be corrected.
+
+### Limitation of Liability
+
+To the maximum extent permitted by law, ajhs will not be liable for any indirect, incidental, special, consequential, exemplary, or punitive damages, or for any loss of profits, revenue, data, goodwill, or business interruption, even if advised of the possibility of such damages. To the maximum extent permitted by law, ajhs's aggregate liability arising out of or relating to the Services or these Terms will not exceed the greater of the total fees paid by you or on your behalf to ajhs for the Services giving rise to the claim in the twelve months preceding the event giving rise to liability, or CAD $100. These limitations apply to the fullest extent permitted by law and do not limit liability that cannot be excluded under applicable law.
+
+### Indemnification
+
+You will indemnify, defend, and hold harmless ajhs and its directors, officers, employees, and agents from and against any third-party claims, damages, losses, liabilities, costs, and expenses, including reasonable legal fees, arising from your User Content, your use of the Services in violation of these Terms or applicable law, or any allegation that your User Content infringes or misappropriates third-party rights. ajhs may assume control of the defense of any matter subject to indemnification, and you will cooperate reasonably in such defense.
+
+### Compliance and Legal Process
+
+ajhs may preserve, access, and disclose Account information and User Content if required by law, legal process, or governmental request, or to enforce these Terms, investigate security incidents, or protect rights, property, or safety. Where legally permissible and practical, ajhs will provide reasonable notice to affected Users or clients before disclosing User Content.
+
+### Suspension and Termination
+
+ajhs may suspend or terminate access immediately if required by law or court order, if there is a security risk or suspected unauthorized access, if you violate these Terms, or in the event of non-payment of applicable fees, if any. Upon termination, your right to use the Services ceases, and ajhs may provide a reasonable period to retrieve User Content unless prohibited by law or security concerns. Sections that by their nature should survive termination will survive, including those addressing Confidentiality, Privacy, Intellectual Property, Disclaimers, Limitation of Liability, Indemnification, Governing Law, and other Miscellaneous terms.
+
+### Changes to the Services and Terms
+
+ajhs may modify the Services or these Terms from time to time, and material changes to these Terms will be notified through the Services, by email, or by other reasonable means at least thirty days before they take effect, unless an earlier effective date is required by law or for security. Your continued use of the Services after the effective date constitutes acceptance of the updated Terms.
+
+### Governing Law and Dispute Resolution
+
+These Terms are governed by the laws of the Province of Ontario and the federal laws of Canada applicable therein, without regard to conflict of law provisions. The courts of Ontario sitting in Toronto have exclusive jurisdiction over all disputes arising out of or relating to these Terms or the Services, and you and ajhs irrevocably submit to that jurisdiction and venue. Notwithstanding the foregoing, either party may seek injunctive or equitable relief in any competent court to protect its confidential information or intellectual property.
+
+### Entire Agreement
+
+These Terms, together with any documents expressly incorporated by reference, including any executed data processing addendum or engagement letter, constitute the entire agreement between you and ajhs regarding the Services and supersede all prior or contemporaneous agreements on the same subject.
+
+### Order of Precedence
+
+In the event of conflict, an executed engagement letter or data processing addendum between you or your organization and ajhs will control over these Terms.
+
+### Assignment
+
+You may not assign or transfer these Terms without ajhs's prior written consent, and ajhs may assign these Terms in connection with a reorganization, merger, acquisition, or sale of assets.
+
+### Severability
+
+If any provision of these Terms is held unenforceable, it will be modified to the minimum extent necessary to be enforceable, and the remaining provisions will remain in full force and effect.
+
+### Waiver
+
+Failure to enforce any provision of these Terms is not a waiver of that or any other provision, and any waiver must be in writing to be effective.
+
+### Force Majeure
+
+ajhs is not liable for delays or failure to perform due to events beyond its reasonable control, including acts of God, labor disputes, internet or utility failures, government actions, or cyberattacks.
+
+### Language
+
+You agree that these Terms and all related documents are in English.
+
+### Contact
+
+Questions about these Terms, privacy, or security may be directed to ajhs legal innovation at:
+
+410 Adelaide Street West  
+Suite 220  
+Toronto, Ontario M5V 1S8  
+Canada
+
+If you need a signed engagement letter or data processing addendum, please contact ajhs. Alternatively, you can reach out to your assigned ajhs contact or the administrative support channel provided with your account.
