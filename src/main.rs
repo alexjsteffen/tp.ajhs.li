@@ -23,6 +23,10 @@ pub enum Route {
     Privacy,
     #[at("/terms")]
     Terms,
+    #[at("/legal-practice")]
+    LegalPractice,
+    #[at("/contact")]
+    Contact,
     #[at("/")]
     Home,
     #[not_found]
@@ -206,6 +210,22 @@ fn switch(routes: &Route) -> Html {
                 <MarkdownPage 
                     filename="terms" 
                     default_title="Terms and Conditions" 
+                /> 
+            }
+        }
+        Route::LegalPractice => {
+            html! { 
+                <MarkdownPage 
+                    filename="legal-practice" 
+                    default_title="Legal Practice" 
+                /> 
+            }
+        }
+        Route::Contact => {
+            html! { 
+                <MarkdownPage 
+                    filename="contact" 
+                    default_title="Contact Us" 
                 /> 
             }
         }

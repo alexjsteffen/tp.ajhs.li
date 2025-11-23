@@ -1,0 +1,70 @@
+---
+title: Contact Us
+published: true
+tag: 
+ - Contact
+ - Support
+---
+
+# Contact Us
+
+We'd love to hear from you. Whether you have a question about our services, need legal assistance, or just want to learn more about what we do, we're here to help.
+
+## Get in Touch
+
+### Office Location
+
+**ajhs legal innovation**  
+410 Adelaide Street West  
+Suite 220  
+Toronto, Ontario M5V 1S8  
+Canada
+
+### Contact Information
+
+**Email:** contact@ajhs.li  
+**Phone:** Available upon request
+
+### Office Hours
+
+Monday - Friday: 9:00 AM - 5:00 PM EST  
+Saturday - Sunday: Closed
+
+## Contact Form
+
+*Note: This is a placeholder contact form. Please use the email address above to contact us directly.*
+
+---
+
+**For urgent legal matters**, please contact us directly via email or phone. For general inquiries, feel free to reach out using any of the methods above.
+
+### What to Expect
+
+When you reach out to us:
+
+1. **Initial Response**: We aim to respond to all inquiries within 1-2 business days
+2. **Consultation**: For legal matters, we may schedule a brief consultation to understand your needs
+3. **Engagement**: If we're a good fit, we'll discuss next steps and our engagement process
+
+### Privacy & Confidentiality
+
+All communications with our office are treated with the utmost confidentiality. For more information, please review our [Privacy Policy](/privacy).
+
+### New Client Inquiries
+
+If you're interested in becoming a client, please include the following information in your initial contact:
+
+- Brief description of your legal needs
+- Any relevant deadlines or time-sensitive matters
+- How you heard about our practice
+- Preferred method and time for follow-up contact
+
+We look forward to hearing from you and helping you with your legal needs.
+
+---
+
+### Additional Resources
+
+- [Terms and Conditions](/terms)
+- [Privacy Policy](/privacy)
+- [Legal Practice Information](/legal-practice)
